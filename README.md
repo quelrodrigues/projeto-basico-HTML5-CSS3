@@ -1,3 +1,4 @@
-# projeto-basico-HTML5-CSS3
+# PÁGINA BÁSICA DE HTML5 E CSS3 🤩 #
 ---
-# Projeto básico usando HTML5 e CSS3#
+## Página básica criada através do Bootcamp da DIO ##
+### Me desenvolvendo e aplicando o aprendizado em cada aula. ###
